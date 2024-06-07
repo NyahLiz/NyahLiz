@@ -22,7 +22,7 @@
  </div>
 
 <div align="center">
-    <p align="centre"><b>Visitors Count</b></p> 
+    <h2><b>Visitors Count</b></h2> 
     <div style="display: inline-block;">
         <img src="https://visit-counter.vercel.app/counter.png?page=https://github.com/NyahLiz&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
         <img height="100" width="100" src="https://files.catbox.moe/kn5fni.gif" />
