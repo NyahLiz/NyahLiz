@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72874&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Liz.%E2%9D%A4%EF%B8%8F;Hello%2C+my+name+is+Liz.%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a></div>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72A7D&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Liz.+%E2%9D%A4%EF%B8%8F;Hello%2C+my+name+is+Liz.+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a></div>
 
 <div align="center">
 <h2>Outras redes sociais que você pode me encontrar:</h2>
@@ -21,11 +21,14 @@
  [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
  </div>
 
- <div align="center">
-<p align="centre"><b>Visitors Count</b></p> 
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https://github.com/NyahLiz&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
-<br>
+<div align="center">
+    <p align="centre"><b>Visitors Count</b></p> 
+    <div style="display: inline-block;">
+        <img src="https://visit-counter.vercel.app/counter.png?page=https://github.com/NyahLiz&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
+        <img height="100" width="100" src="https://files.catbox.moe/kn5fni.gif" />
+    </div>
 </div>
+
 
 <div align="center">
 <h2> If you support me, click here, give me a coffee</h2>
